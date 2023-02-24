@@ -1,0 +1,86 @@
+.logo {
+    color:#DC143C;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header{
+    background-color: rgb(34, 32, 32);
+}
+
+.nav-text {
+    color:whitesmoke;
+}
+
+body {
+    background-color:#E9ECEF ;
+}
+
+#aciklama-text {
+    font-size: 18px;
+}
+
+a:link {
+    text-decoration:none;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(174, 159, 24);
+}
+
+.anasayfa-urun {
+    text-align: center;
+}
+
+.anasayfa-ul {
+    display: inline-block;
+    text-align: left;
+}
+
+.button {
+    background-color:#008CBA;
+    color:white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 20px;
+}
+
+.button-div {
+    text-align: center;
+}
+
+/*  */
+
+.top-padding {
+    padding-top: 50px;
+}
+
+.card {
+    float: left;
+}
+
+.ürün-fiyat{
+    background-color: gray;
+    color: white;
+    display:inline;
+    padding-inline: 5px;
+    border-radius: 5px;
+}
+
+.hakkimizda-card {
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+.vizyon {
+    margin-top: 2%;
+}
+
+.about-us-title{
+    text-align: center;
+    margin-top: 2%;
+    color: #DC143C;
+}
